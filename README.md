@@ -15,9 +15,9 @@ https://www.ajaydubedi.com/programming-logic-key-ingredients-banner/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arbia_youssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arbia_youssef" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/youssef ben arbia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef ben arbia" height="30" width="40" /></a>
-<a href="https://fb.com/youssef ben arbia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef ben arbia" height="30" width="40" /></a>
-<a href="https://instagram.com/youssef ben arbia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youssef ben arbia" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/youssef ben arbia](https://www.linkedin.com/in/yousefbenarbia/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef ben arbia" height="30" width="40" /></a>
+<a href="[https://fb.com/youssef ben arbia](https://www.facebook.com/profile.php?id=100039187187219)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef ben arbia" height="30" width="40" /></a>
+<a href="https://instagram.com/youssef_benarbia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youssef ben arbia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
