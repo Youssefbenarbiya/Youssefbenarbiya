@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **food app**
 
-- 🌱 I’m currently learning **Angular, Java, PHP, SQL**
+- 🌱 I’m currently learning **Angular, Spring boot, Docker**
 
 - 📫 How to reach me **youssefbenarbia345@gmail.com**
 
