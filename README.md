@@ -6,7 +6,7 @@
 
 - 🖥️ Web Developer and DevOps Engineer  
 - ✉️ youssefbenarbia@gmail.com  
-- 🔗 [LinkedIn Profile](www.linkedin.com/in/yousefbenarbia)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yousefbenarbia) 
 
 ## My Skill Set  
 <table><tr>
@@ -55,5 +55,6 @@ Connect with me
 <a href="www.linkedin.com/in/yousefbenarbia" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>  
+  <br>
 ✉️ youssefbenarbia@gmail.com  
 </div>
