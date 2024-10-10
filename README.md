@@ -2,11 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
 
-<div align="center">I'm Yousef 👋</div>  
+<div align="center"><strong>I'm Yousef Benarbia  👋</strong></div>
 
 - 🖥️ Web Developer and DevOps Engineer  
-- ✉️ yousef.email@example.com  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yousef-profile)  
+- ✉️ youssefbenarbia@gmail.com  
+- 🔗 [LinkedIn Profile](www.linkedin.com/in/yousefbenarbia)  
 
 ## My Skill Set  
 <table><tr>
@@ -47,22 +47,13 @@ Version Control
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 </td>
-<td valign="top" width="33%">
-Web  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-</td>
 </tr>
 </table>  
 
 Connect with me  
 <div align="center">
-<a href="https://github.com/your-github" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/yousef-profile" target="_blank">
+<a href="www.linkedin.com/in/yousefbenarbia" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>  
+✉️ youssefbenarbia@gmail.com  
 </div>
