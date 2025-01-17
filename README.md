@@ -42,16 +42,16 @@
       <strong>Tools & Libraries</strong>  
       <div align="center">  
         <a href="https://orm.drizzle.team/" target="_blank">
-    <img style="margin: 10px" src="https://orm.drizzle.team/logo.png" alt="Drizzle" height="50" />
+    <img style="margin: 10px" src="[https://orm.drizzle.team/logo.png](https://imgs.search.brave.com/Fdd1LYdhD41CAPEA1lYIap0zinh-xCK6hwYlaY9vMbU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8z/ZjhhZDhlZmE3MTYz/ZjYwMTU1NGMwZWNk/OGY2MDkxMWM4MWEx/NmM5OWI5ZGI4NGYx/MzNlOGIyNmM0OWNm/MGI2LzY4NzQ3NDcw/NzMzYTJmMmY2OTJl/Njk2ZDY3NzU3MjJl/NjM2ZjZkMmYzNjZi/NTk1MjM5MzA0OTJl/NzA2ZTY3)" alt="Drizzle" height="50" />
 </a>
 <a href="https://zod.dev/" target="_blank">
-    <img style="margin: 10px" src="https://zod.dev/logo.png" alt="Zod" height="50" />
+    <img style="margin: 10px" src="[https://zod.dev/logo.png](https://imgs.search.brave.com/2Ca5DM88i9i24Hb1qvPhLZXQGC_W5Qr7nLJrKl4hV74/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzEyNTc1ND9z/PTIwMCZ2PTQ)" alt="Zod" height="50" />
 </a>
 <a href="https://ui.shadcn.com/" target="_blank">
-    <img style="margin: 10px" src="https://ui.shadcn.com/logo.png" alt="shadcn/ui" height="50" />
+    <img style="margin: 10px" src="[https://ui.shadcn.com/logo.png](https://raw.githubusercontent.com/birobirobiro/awesome-shadcn-ui/64729b2c178e3fdcb42c0c7bf341bcde7ae502ea/assets/logo.svg)" alt="shadcn/ui" height="50" />
 </a>
 <a href="https://hono.dev/" target="_blank">
-    <img style="margin: 10px" src="https://hono.dev/logo.png" alt="Hono.js" height="50" />
+    <img style="margin: 10px" src="[https://hono.dev/logo.png](https://avatars.githubusercontent.com/u/98495527?s=200&v=4)" alt="Hono.js" height="50" />
 </a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
       </div>  
