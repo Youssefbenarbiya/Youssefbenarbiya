@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
+</div>
 
 <div align="center"><strong>I'm Yousef Benarbia  👋</strong></div>
 
@@ -19,6 +19,8 @@
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>  
         <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
         <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+        <a href="https://hono.dev/" target="_blank"><img style="margin: 10px" src="https://rishavanand.github.io/static/images/hono-logo.svg" alt="Hono.js" height="50" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original.svg" alt="Express.js" height="50" /></a>  
       </div>  
     </td>
     <td valign="top" width="33%">
@@ -42,21 +44,14 @@
       <strong>Tools & Libraries</strong>  
       <div align="center">  
         <a href="https://orm.drizzle.team/" target="_blank">
-    <img style="margin: 10px" src="![Image](https://github.com/user-attachments/assets/9a60054f-b5d5-4ad6-8bac-dd16e442c379)
-" alt="Drizzle ORM Logo" height="50" />
-</a>
-<a href="https://zod.dev/" target="_blank">
-    <img style="margin: 10px" src="![Image](https://github.com/user-attachments/assets/b3a79600-a6a3-4718-ac64-3e387af95ef3)
-" alt="Zod" height="50" />
-</a>
-<a href="https://ui.shadcn.com/" target="_blank">
-    <img style="margin: 10px" src="![Image](https://github.com/user-attachments/assets/61e4976f-7bb9-4696-856a-48e564522e4c)
-" alt="shadcn/ui" height="50" />
-</a>
-<a href="https://hono.dev/" target="_blank">
-    <img style="margin: 10px" src="      ![Image](https://github.com/user-attachments/assets/ca14e373-d5e6-44bc-8567-f5762a2380ac)
-" alt="Hono.js" height="50" />
-</a>
+          <img style="margin: 10px" src="https://rishavanand.github.io/static/images/drizzle-logo.svg" alt="Drizzle ORM" height="50" />
+        </a>
+        <a href="https://zod.dev/" target="_blank">
+          <img style="margin: 10px" src="https://rishavanand.github.io/static/images/zod-logo.svg" alt="Zod" height="50" />
+        </a>
+        <a href="https://ui.shadcn.com/" target="_blank">
+          <img style="margin: 10px" src="https://rishavanand.github.io/static/images/shadcnui-logo.svg" alt="shadcn/ui" height="50" />
+        </a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
       </div>  
     </td>
