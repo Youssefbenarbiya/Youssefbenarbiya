@@ -4,7 +4,7 @@
 
 <div align="center"><strong>I'm Yousef Benarbia  👋</strong></div>
 
-- 🖥️ Web Developer and DevOps Engineer  
+- 🖥️ Web Developer  
 - ✉️ youssefbenarbia345@gmail.com  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yousefbenarbia)  
 - 🛠️ **Currently working with:** Next.js, Drizzle, Zod, PostgreSQL, shadcn/ui  
@@ -16,10 +16,9 @@
     <td valign="top" width="33%">
       <strong>Frameworks</strong>  
       <div align="center">  
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>  
         <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
         <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>  
       </div>  
     </td>
     <td valign="top" width="33%">
@@ -33,8 +32,8 @@
     <td valign="top" width="33%">
       <strong>Databases</strong>  
       <div align="center">  
+         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
       </div>
     </td>
   </tr>
@@ -42,17 +41,25 @@
     <td valign="top" width="33%">
       <strong>Tools & Libraries</strong>  
       <div align="center">  
-        <a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/108635477?s=200&v=4" alt="Drizzle" height="50" /></a>  
-        <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/66241787?s=200&v=4" alt="Zod" height="50" /></a>  
-        <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/124599?s=200&v=4" alt="shadcn/ui" height="50" /></a>  
-        <a href="https://hono.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/106605837?s=200&v=4" alt="Hono.js" height="50" /></a>  
+        <a href="https://orm.drizzle.team/" target="_blank">
+    <img style="margin: 10px" src="https://orm.drizzle.team/logo.png" alt="Drizzle" height="50" />
+</a>
+<a href="https://zod.dev/" target="_blank">
+    <img style="margin: 10px" src="https://zod.dev/logo.png" alt="Zod" height="50" />
+</a>
+<a href="https://ui.shadcn.com/" target="_blank">
+    <img style="margin: 10px" src="https://ui.shadcn.com/logo.png" alt="shadcn/ui" height="50" />
+</a>
+<a href="https://hono.dev/" target="_blank">
+    <img style="margin: 10px" src="https://hono.dev/logo.png" alt="Hono.js" height="50" />
+</a>
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
       </div>  
     </td>
     <td valign="top" width="33%">
       <strong>Containerization</strong>  
       <div align="center">  
         <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-        <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
       </div>  
     </td>
     <td valign="top" width="33%">
