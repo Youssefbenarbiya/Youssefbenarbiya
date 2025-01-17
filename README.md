@@ -42,16 +42,20 @@
       <strong>Tools & Libraries</strong>  
       <div align="center">  
         <a href="https://orm.drizzle.team/" target="_blank">
-    <img style="margin: 10px" src="https://imgs.search.brave.com/iQ0_siJO3qm-8pzAT5VpLw_H7B1Q5I33gEh6GWgQ6ww/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2RyaXp6/bGUtdGVhbS9kcml6/emxlLW9ybS9yYXcv/bWFpbi9taXNjL3Jl/YWRtZS9sb2dvLWdp/dGh1Yi1zcS1kYXJr/LnN2ZyNnaC1kYXJr/LW1vZGUtb25seQ" alt="Drizzle ORM Logo" height="50" />
+    <img style="margin: 10px" src="![Image](https://github.com/user-attachments/assets/9a60054f-b5d5-4ad6-8bac-dd16e442c379)
+" alt="Drizzle ORM Logo" height="50" />
 </a>
 <a href="https://zod.dev/" target="_blank">
-    <img style="margin: 10px" src="[[[https://zod.dev/logo.png](https://imgs.search.brave.com/2Ca5DM88i9i24Hb1qvPhLZXQGC_W5Qr7nLJrKl4hV74/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzEyNTc1ND9z/PTIwMCZ2PTQ)](https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg)](https://imgs.search.brave.com/nB2L08HoEn-ntwKJhqx3YlymLRL17UPAJTTuTW84vcU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2NvbGlu/aGFja3Mvem9kL3Jh/dy9tYWluL2xvZ28u/c3Zn)" alt="Zod" height="50" />
+    <img style="margin: 10px" src="![Image](https://github.com/user-attachments/assets/b3a79600-a6a3-4718-ac64-3e387af95ef3)
+" alt="Zod" height="50" />
 </a>
 <a href="https://ui.shadcn.com/" target="_blank">
-    <img style="margin: 10px" src="[[https://ui.shadcn.com/logo.png](https://raw.githubusercontent.com/birobirobiro/awesome-shadcn-ui/64729b2c178e3fdcb42c0c7bf341bcde7ae502ea/assets/logo.svg)](https://raw.githubusercontent.com/birobirobiro/awesome-shadcn-ui/main/assets/logo.svg)" alt="shadcn/ui" height="50" />
+    <img style="margin: 10px" src="![Image](https://github.com/user-attachments/assets/61e4976f-7bb9-4696-856a-48e564522e4c)
+" alt="shadcn/ui" height="50" />
 </a>
 <a href="https://hono.dev/" target="_blank">
-    <img style="margin: 10px" src="[[https://hono.dev/logo.png](https://avatars.githubusercontent.com/u/98495527?s=200&v=4)](https://avatars.githubusercontent.com/u/98495527?s=200&v=4)" alt="Hono.js" height="50" />
+    <img style="margin: 10px" src="      ![Image](https://github.com/user-attachments/assets/ca14e373-d5e6-44bc-8567-f5762a2380ac)
+" alt="Hono.js" height="50" />
 </a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
       </div>  
