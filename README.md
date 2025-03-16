@@ -4,7 +4,7 @@
 
 <div align="center"><strong>I'm Yousef Benarbia  👋</strong></div>
 
-- 🖥️ Web Developer  
+- 🖥️ Software Developer  
 - ✉️ youssefbenarbia345@gmail.com  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yousefbenarbia)  
 - 🛠️ **Currently working with:** Next.js, Drizzle, Zod, PostgreSQL, shadcn/ui  
